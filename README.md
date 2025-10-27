@@ -1,8 +1,22 @@
-<br/>
-<br/>
-
-Hi, I'm **Vysonis**, I'm a Security Researcher & Developer</br>
-
-[![PGP](https://img.shields.io/badge/%200x87B6FB1F69B7DB9D-2d2d2d?style=for-the-badge&labelColor=4f4f4f&logo=ghost)](https://github.com/vysonis.gpg)
-[![](https://img.shields.io/badge/%20-vysonis%40tuta.io-2d2d2d?style=for-the-badge&labelColor=4f4f4f&logo=gmail&logoColor=fff)](mailto:vysonis@tuta.io)
-[![](https://img.shields.io/badge/%20-vysonis-2d2d2d?style=for-the-badge&labelColor=4f4f4f&logo=discord&logoColor=fff)](https://discord.com/users/132303359100190720)
+<table>
+    <td>
+      <table>
+        <tr><th>Platform</th><th> Address / Handle</th></tr>
+        <tr><td><b>SimpleX</b></td><td><code>https://smp9.simplex.im/a#Ox6W-HzkQ0-o6fFFD25JmpNxlsMbfjXO7j6apjMa_S4</code></td></tr>
+        <tr><td><b>Session</b></td><td><code>059e579d97e29b7521b7ba055a651e09e200a2ae6eace94e024aa2f9a7f3244a2f</code></td></tr>
+        <tr><td><b>PGP</b></td><td><code>0x87B6FB1F69B7DB9D</code></td></tr>
+        <tr><td><b>XMPP</b></td><td><code>vysonis@xmpp.is</code></td></tr>
+        <tr><td><b>Matrix</b></td><td><code>@vysonis:matrix.org</code></td></tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr><th>Platform</th><th>Handle</th></tr>
+        <tr><td><b>Keybase</b></td><td><code>@vysonis</code></td></tr>
+        <tr><td><b>Wire</b></td><td><code>@vysonis</code></td></tr>
+        <tr><td><b>Discord</b></td><td><code>@vysonis</code></td></tr>
+        <tr><td><b>Telegram</b></td><td><code>@vysonis</code></td></tr>
+        <tr><td><b>GitHub</b></td><td><code>@vysonis</code></td></tr>
+      </table>
+    </td>
+</table>
