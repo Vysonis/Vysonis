@@ -2,9 +2,9 @@
     <td>
       <table>
         <tr><th>Platform</th><th> Address / Handle</th></tr>
-        <tr><td><b>SimpX</b></td><td><code>https://smp9.s..x.im/a#Ox6W-HzkQ0-o6fFFD25JmpNxlsMbfjXO7j6apjMa_S4</code></td></tr>
-        <tr><td><b>Sess</b></td><td><code>059e579d97e29b7521b7ba055a651e09e200a2ae6eace94e024aa2f9a7f3244a2f</code></td></tr>
-        <tr><td><b>Tox</b></td><td><code>AF6353C7DF17C24917E5B9A383C61604B02A8EB604F33FE05B54C074223A1857493CC5E2F262</code></td></tr>
+        <tr><td><b>SimpleX</b></td><td><code>https://smp9.s..x.im/a#Ox6W-HzkQ0-o6fFFD25JmpNxlsMbfjXO7j6apjMa_S4</code></td></tr>
+        <tr><td><b>Session</b></td><td><code>059e579d97e29b7521b7ba055a651e09e200a2ae6eace94e024aa2f9a7f3244a2f</code></td></tr>
+        <tr><td><b>qTox</b></td><td><code>AF6353C7DF17C24917E5B9A383C61604B02A8EB604F33FE05B54C074223A1857493CC5E2F262</code></td></tr>
         <tr><td><b>PGP</b></td><td><code>0x87B6FB1F69B7DB9D</code></td></tr>
         <tr><td><b>XMPP</b></td><td><code>vysonis@xmpp.is</code></td></tr>
         <tr><td><b>Matrix</b></td><td><code>@vysonis:matrix.org</code></td></tr>
